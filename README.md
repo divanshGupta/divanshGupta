@@ -2,4 +2,5 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning ReactJs
 - 📫 How to reach me: divyanshg556@gmail.com 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
 
