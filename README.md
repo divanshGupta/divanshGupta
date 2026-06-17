@@ -26,11 +26,3 @@ Node.js, Express, React, Next.js, PostgreSQL, MongoDB, Prisma, FastAPI, SQLAlche
 ### Badges
 
 <a href="https://github.com/divanshGupta" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divanshGupta&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/divanshGupta/paper-trading" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=divanshGupta&repo=paper-trading&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/divanshGupta/python-gym-tracker-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=divanshGupta&repo=python-gym-tracker-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/divanshGupta/divyanshgupta" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=divanshGupta&repo=divyanshgupta&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/divanshGupta/dsa-javascript" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=divanshGupta&repo=dsa-javascript&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
